@@ -14,5 +14,6 @@ public class Prison_Management_System {
         System.out.println("Hello World!");
         System.out.println("gg");
         System.out.println("");
+        System.out.println("ayam");
     }
 }
