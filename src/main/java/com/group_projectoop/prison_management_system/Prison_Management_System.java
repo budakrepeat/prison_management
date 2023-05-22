@@ -13,5 +13,6 @@ public class Prison_Management_System {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("gg");
+        System.out.println("");
     }
 }
